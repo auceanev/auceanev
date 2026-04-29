@@ -1,4 +1,4 @@
-# Hi there 👋👋 Salut, moi c'est Auceane
+# Hi👋 Salut, moi c'est Auceane 👋
 
 **Data Engineer & Analytics Engineer · Master EFREI Paris · Paris 🇫🇷**
 
