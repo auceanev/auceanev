@@ -22,7 +22,7 @@ Actuellement en train de consolider mes compétences sur la **Modern Data Stack*
 ## 🌱 En ce moment
 
 - 📌 Je consolide mes compétences data avec des projets concrets
-- 📌 Je construis des pipelines end-to-end sur des données ouvertes françaises
+- 📌 Je construis des pipelines end-to-end sur des données ouvertes
 - 📌 Ouverte aux opportunités : **Data Engineer** · **Analytics Engineer**
 
 ---
